@@ -1,4 +1,4 @@
-# Analyzing Aftershock Patterns in Bogo City, Cebu using Unsupervised and Supervised Learning
+# Analyzing Aftershock Sequences in Bogo City, Cebu using Unsupervised and Supervised Learning
 Overleaf Link: https://www.overleaf.com/3137729714tjsyjrhpdmkf#7a10d5
 
 Authors: Charrie Anne Nacor and Joanna Marie Pagtalunan
